@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @depressedpsychiatrist
+- 👋 Hi, I’m Atal
 - 👀 I’m interested in Web Application Development
-- 🌱 I’m currently improving my Laravel and Vue Programming
-- 📫 Reach me on telegram @depressedpsychiatrist
+- 🌱 I’m profficient in Laravel and Vue.js
+- 🌱 I'm currently learning Ruby and RoR. 
+- 📫 Reach me on linkedIn on /in/atalatal
 
